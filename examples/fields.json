@@ -1,0 +1,7 @@
+{
+  "indexName": "test_library",
+  "field": [
+    { "name": "doc_id", "type": "ATOM", "storeDocValues": true },
+    { "name": "content", "type": "TEXT", "search": true, "store": true }
+  ]
+}

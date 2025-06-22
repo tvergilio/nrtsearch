@@ -1,0 +1,6 @@
+{
+  "indexName": "test_library",
+  "topHits": 10,
+  "retrieveFields": ["doc_id", "content"],
+  "queryText": "content:Gatsby"
+}
